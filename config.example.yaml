@@ -1,0 +1,12 @@
+model:
+  alpha: 0.15
+
+splitting:
+  train_test_ratio: 0.7
+  window_size: 600
+  window_shift: 600
+
+paths:
+  dataset: /data/your_dataset.csv
+  score_file: /outputs/scores.pkl
+
