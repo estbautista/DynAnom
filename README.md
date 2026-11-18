@@ -139,7 +139,7 @@ For original experiments, background references, and upstream setup instructions
 
 ## Licensing
 
-- **DynAnom-derived implementation and combined DynAnomAgg distribution:** GNU General Public License, version 3 (GPLv3). The original upstream license text is preserved in the root [`LICENSE`](LICENSE).
+- **DynAnom-derived implementation and combined DynAnom distribution:** GNU General Public License, version 3 (GPLv3). The original upstream license text is preserved in the root [`LICENSE`](LICENSE).
 - **Separately authored `lsmanip` component:** European Union Public Licence, version 1.2 (EUPL-1.2). Its license text is in [`LICENSES/EUPL-1.2.txt`](LICENSES/EUPL-1.2.txt). The EUPL 1.2 compatibility provision permits inclusion in a combined GPLv3 work.
 
 Existing original copyright and attribution notices remain applicable. Changes to upstream files are described in [`MODIFICATIONS.md`](MODIFICATIONS.md). These licenses do not imply endorsement by the original DynAnom authors.
